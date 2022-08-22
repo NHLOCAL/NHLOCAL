@@ -1,4 +1,4 @@
-- 🤓 Hi, I’m @NHLOCAL
+# 🤓 Hi, I’m @NHLOCAL
 - ⌨️ I’m interested in batsh and cmd
 - 📖 I am currently studying Python
 - 🤝 I’m looking to collaborate on my projects
