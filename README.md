@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,html,cmd" />
+    <img src="https://skillicons.dev/icons?i=py,html,bash" />
   </a>
 </p>
