@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,cmd,py,html)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,html)](https://skills.thijs.gg)
