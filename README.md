@@ -5,6 +5,7 @@
 - 🤝 I’m looking to collaborate on my projects
 - 📨 How to reach me nh.local11@gmail.com
 
+---
 
 🌐 **To enter [the official website](https://nhlocal.github.io/)**
 
