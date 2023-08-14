@@ -1,5 +1,5 @@
 # 🤓 Hi, I’m @NHLOCAL
-- ⌨️ I’m interested in machine learning
+- 🖥️ I’m interested in machine learning
 - ⌛ I’m currently working with Python & js
 - 🤖 I’m work hand in hand with chat-gpt
 - 🤝 I’m looking to collaborate on my projects
