@@ -13,8 +13,7 @@
 
 ---
 
-🌐 **To enter [the official website](https://nhlocal.github.io/)**
-  
-🎧 **To register for [the vast pool of ultra-Orthodox music in drive](https://forms.gle/3oj9pobJrwf3zvqk8)**
-
+🌐 **To enter the official website**
+<br>
+https://nhlocal.github.io
 
