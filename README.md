@@ -34,11 +34,10 @@
 <p><a href="https://www.buymeacoffee.com/NHLOCAL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NHLOCAL" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhlocal&" alt="nhlocal" /></p>
 
 [![NHLOCAL's GitHub | Stats](https://stats.quine.sh/NHLOCAL/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" /></p>
