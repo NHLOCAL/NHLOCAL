@@ -37,7 +37,7 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhlocal&" alt="nhlocal" /></p>
 
