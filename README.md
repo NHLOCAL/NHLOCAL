@@ -40,4 +40,4 @@
 
 [![NHLOCAL's GitHub | Stats](https://stats.quine.sh/NHLOCAL/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" />
