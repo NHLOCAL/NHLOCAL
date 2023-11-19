@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm NHLOCAL</h1>
 <h3 align="center">Programming is hard, chatting is easy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhlocal&label=Profile%20views&color=0e75b6&style=flat" alt="nhlocal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal" alt="nhlocal" /></a> </p>
-
 - 🔭 I’m currently working on [shir bot site](https://github.com/NHLOCAL/shir-bot)
 
 - 🌱 I’m currently learning **js, oop in python & machine learning**
@@ -45,3 +41,8 @@
 
 [![NHLOCAL's GitHub | Languages Over Time](https://stats.quine.sh/NHLOCAL/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal" alt="nhlocal" /></a> </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhlocal&label=Profile%20views&color=0e75b6&style=flat" alt="nhlocal" /> </p>
