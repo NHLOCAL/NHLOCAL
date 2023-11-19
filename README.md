@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [shir bot site](https://github.com/NHLOCAL/shir-bot)
 
-- 🌱 I’m currently learning **js, oop in python, machine learn**
+- 🌱 I’m currently learning **js, oop in python & machine learning**
 
 - 🤝 I’m looking to collaborate on [singles sorter program](https://github.com/NHLOCAL/Singles-Sorter)
 
@@ -39,4 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhlocal&" alt="nhlocal" /></p>
+
+[![NHLOCAL's GitHub | Stats](https://stats.quine.sh/NHLOCAL/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
 
