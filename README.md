@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm NHLOCAL</h1>
 <h3 align="center">Programming is hard, chatting is easy</h3>
 
-- 🔭 I’m currently working on [shir bot site](https://github.com/NHLOCAL/shir-bot)
+- 🔭 I’m currently working on the [MusicAutomatic projet](https://github.com/NHLOCAL/Music-Automatic/)
+
+I would appreciate any help for this great project, to optimize and automate music databases in a variety of ways!
+(currently mainly for Hebrew)
+
 
 - 🌱 I’m currently learning **js, oop in python & machine learning**
 
