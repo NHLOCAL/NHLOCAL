@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on the [MusicAutomatic projet](https://github.com/NHLOCAL/Music-Automatic/)
 
-I would appreciate any help for this great project, to optimize and automate music databases in a variety of ways!
-(currently mainly for Hebrew)
+I would appreciate any help for this great project, Streamline and sort music files using advanced automation!
 
 
 - 🌱 I’m currently learning **js, oop in python & machine learning**
