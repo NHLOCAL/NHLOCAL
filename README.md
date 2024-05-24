@@ -6,7 +6,7 @@
 I would appreciate any help for this great project, Streamline and sort music files using advanced automation!
 
 
-- 🌱 I’m currently learning **js, oop in python & machine learning**
+- 🤖 I keep a close eye on **developments in AI** with my [AI Timeline](https://github.com/NHLOCAL/AiTimeline/)
 
 - 🤝 I’m looking to collaborate on [singles sorter program](https://github.com/NHLOCAL/Singles-Sorter)
 
@@ -16,7 +16,7 @@ I would appreciate any help for this great project, Streamline and sort music fi
 
 - 📫 How to reach me **nh.local11@gmail.com**
 
-- ⚡ Fun fact **Faced with a complicated exercise, don't work hard, that's what a calculator is for**
+- ⚡ **Faced with a complicated exercise, don't work hard, that's what a calculator is for**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,13 +36,12 @@ I would appreciate any help for this great project, Streamline and sort music fi
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhlocal&show_icons=true&locale=en&layout=compact" alt="nhlocal" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhlocal&" alt="nhlocal" /></p>
 
 [![NHLOCAL's GitHub | Stats](https://stats.quine.sh/NHLOCAL/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
 
-[![NHLOCAL's GitHub | Languages Over Time](https://stats.quine.sh/NHLOCAL/languages-over-time?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal" alt="nhlocal" /></a> </p>
