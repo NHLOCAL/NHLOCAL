@@ -34,7 +34,7 @@ I would appreciate any help for this great project, Streamline and sort music fi
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/NHLOCAL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="NHLOCAL" /></a></p><br><br>
+<p>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X114E89M)</p><br><br>
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
