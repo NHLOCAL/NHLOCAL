@@ -34,7 +34,9 @@ I would appreciate any help for this great project, Streamline and sort music fi
 
 
 <h3 align="left">Support:</h3>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X114E89M)
+
 <br><br>
 
 
