@@ -40,15 +40,6 @@ I would appreciate any help for this great project, Streamline and sort music fi
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nhlocal&" alt="nhlocal" /></p>
-
-[![NHLOCAL's GitHub | Stats](https://stats.quine.sh/NHLOCAL/github?theme=light)](http://localhost:3000?utm_source=widgets&utm_campaign=NHLOCAL)
-
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal" alt="nhlocal" /></a> </p>
 
 
