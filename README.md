@@ -38,9 +38,11 @@ I would appreciate any help for this great project, Streamline and sort music fi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X114E89M)
 
 
+<h3 align="left">Achievements:</h3>
+
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nhlocal&show_icons=true&locale=en" alt="nhlocal" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal" alt="nhlocal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhlocal&column=4&title=-reviews" alt="nhlocal" /></a> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhlocal&label=Profile%20views&color=0e75b6&style=flat" alt="nhlocal" /> </p>
