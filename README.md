@@ -12,7 +12,7 @@ I would appreciate any help for this great project, Streamline and sort music fi
 
 - 👨‍💻 All of my projects are available at [https://github.com/NHLOCAL?tab=repositories](https://github.com/NHLOCAL?tab=repositories)
 
-- 💬 Ask me about **bat, cmd, python, And how to get the most out of gpt chat**
+- 💬 Ask me about **cmd, python, And how to get the most out of AI**
 
 - 📫 How to reach me **nh.local11@gmail.com**
 
