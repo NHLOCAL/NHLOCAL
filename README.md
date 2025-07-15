@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm NHLOCAL</h1>
 <h3 align="center">Programming is hard, chatting is easy</h3>
 
-- 🔭 I’m currently working on the [MusicAutomatic projet](https://github.com/NHLOCAL/Music-Automatic/)
-
-I would appreciate any help for this great project, Streamline and sort music files using advanced automation!
-
 
 - 🤖 I keep a close eye on **developments in AI** with my [AI Timeline](https://github.com/NHLOCAL/AiTimeline/)
 
