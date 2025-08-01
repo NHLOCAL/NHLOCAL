@@ -4,8 +4,6 @@
 
 - 🤖 I keep a close eye on **developments in AI** with my [AI Timeline](https://github.com/NHLOCAL/AiTimeline/)
 
-- 🤝 I’m looking to collaborate on [singles sorter program](https://github.com/NHLOCAL/Singles-Sorter)
-
 - 👨‍💻 All of my projects are available at [https://github.com/NHLOCAL?tab=repositories](https://github.com/NHLOCAL?tab=repositories)
 
 - 💬 Ask me about **cmd, python, And how to get the most out of AI**
